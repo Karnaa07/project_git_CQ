@@ -20,4 +20,4 @@ Pour plus tard :
 ## Thank you
 - [My collaborater for this project @Clément-Yvars](https://github.com/clement-Yvars)
 
-test
+- [My collaborater for this project @Quentin-Girard](https://github.com/Karnaa07)
