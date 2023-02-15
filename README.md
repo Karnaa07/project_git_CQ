@@ -9,6 +9,10 @@ This repo will contain our entire project for our partial versioning. it was cre
 
 ## Getting Started
 
+Pour plus tard : 
+"git config commit.gpgsign true" => permet de signer les commits dans un répo local.
+"git config --global commit.gpgsign true" => permet de signer les commits dans tout les répos.
+
 ## Contribution
 - [github-project code-of-conduct](CODE_OF_CONDUCT.md)
 - [github-project contributing](CONTRIBUTING.md)
