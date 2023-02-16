@@ -5,7 +5,7 @@ Ceci est notre code of conduct pour la communauté github qui souhaite travaille
 * **Faites attention à la manière dont vous vous exprimer.** Les comportements qui ne sont pas acceptés sont les suivants :
 * Tous commentaires offensant lié à l'identité d'une personne, à son orientation sexuelle, à l'origine ethnique, à la religion, à la culture, à son âge, ou ses compétences seront banni du projet.
 * Toutes menaces qu'elles soient physique ou morale entraînera un bannissement.
-* toute intimidation délibérée entraînera une remise à l'ordre.
+* Toute intimidation délibérée entraînera une remise à l'ordre.
 * Retrouver une personne irl, et finir par la traquer ou la suivre sera un bannissement définitif et entraînera des poursuites judiciaires.
 
 ## Ce que nous souhaitons
