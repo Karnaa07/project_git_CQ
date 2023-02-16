@@ -20,6 +20,10 @@ Ce dépôt contiendra l'intégralité de notre projet pour notre partiel de vers
 - [ ] Un hooks qui verifie un code js(linter) (2 points) 
 - [ ] Questions de cours individuel (3 points) 
 
+**Point Bonus :**
+- [ ] Une CI/GithubAction qui lance votre linter (2 points) 
+- [ ] Avec la commande git push -> push sur les 2 remotes (1 point) 
+
 Pour plus tard : 
 - "git config commit.gpgsign true" => permet de signer les commits dans un répo local.
 - "git config --global commit.gpgsign true" => permet de signer les commits dans tout les répos.
