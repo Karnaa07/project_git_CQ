@@ -1,6 +1,6 @@
 # README github_project
 
-This repo will contain our entire project for our partial versioning. it was created by ourselves: Mr Yvars and Mr Girard
+Ce dépôt contiendra l'intégralité de notre projet pour notre partiel de versionning. il a été créé par nous-mêmes : Mr Yvars et Mr Girard.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -8,6 +8,22 @@ This repo will contain our entire project for our partial versioning. it was cre
 - [Thank You](#thank-you)
 
 ## Getting Started
+
+**Pour le bon déroulement du partiel**. Voici les objectifs à accomplir :
+- [ ] Qualité de la soutenance (3 points) 
+- [X] Commits signés de tous les membres et sur tous les commits (1 point) 
+- [X] Issue + Issue templates (1 point) [ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE)
+- [X] Merge request + merge request template (1 point) [MERGE_REQUEST_TEMPLATE](.github/pull_request_template.md)
+- [X] GitHub project (1 point) [PROJECT_GITHUB](https://github.com/users/Karnaa07/projects/1)
+- [X] Un readme, contributing, code of conduct correctement rédigés (1 point)
+- [ ] Un .gitignore cohérent (1 point)
+- [X] Respect du git flow (les bonnes branches et les bonnes protection de branche) (2 points)
+- [ ] Un hooks qui vérifie un code js (linter) (2 points)
+- [ ] Question de cours individuel (3 points)
+
+**Point Bonus :**
+- [ ] Une CI/GithubAction qui lance votre linter (2 points) 
+- [ ] Avec la commande git push -> push sur les 2 remotes (1 point) 
 
 Pour plus tard : 
 - "git config commit.gpgsign true" => permet de signer les commits dans un répo local.
