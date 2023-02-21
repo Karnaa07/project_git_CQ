@@ -40,5 +40,3 @@ Pour plus tard :
 - [My collaborater for this project @Clément-Yvars](https://github.com/clement-Yvars)
 
 - [My collaborater for this project @Quentin-Girard](https://github.com/Karnaa07)
-
-lala
