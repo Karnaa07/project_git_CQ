@@ -25,12 +25,11 @@ Ce dépôt contiendra l'intégralité de notre projet pour notre partiel de vers
 - [ ] Une CI/GithubAction qui lance votre linter (2 points) 
 - [ ] Avec la commande git push -> push sur les 2 remotes (1 point) 
 
-Pour plus tard : 
-- "git config commit.gpgsign true" => permet de signer les commits dans un répo local.
-- "git config --global commit.gpgsign true" => permet de signer les commits dans tout les répos.
-
-- "git remote add remote1 <URL_REMOTE1> git remote add remote2 <URL_REMOTE2>" Permet d'ajouter deux remote
-- "git push remote1 remote2"
+**Push sur deux remotes différent :**
+- "git remote -v" => pour voir si notre remote est lié à un répo
+- "git remote add origin1 https://github.com/votre-nom-utilisateur/votre-projet.git"
+- "git remote add origin2 https://github.com/votre-nom-utilisateur/votre-projet-fork.git"
+- "git push origin1 main && git push origin2 main"
 
 ## Contribution
 - [github-project code-of-conduct](CODE_OF_CONDUCT.md)
