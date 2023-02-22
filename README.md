@@ -22,7 +22,7 @@ Ce dépôt contiendra l'intégralité de notre projet pour notre partiel de vers
 - [ ] Question de cours individuel (3 points)
 
 **Point Bonus :**
-- [ ] Une CI/GithubAction qui lance votre linter (2 points) 
+- [X] Une CI/GithubAction qui lance votre linter (2 points) 
 - [ ] Avec la commande git push -> push sur les 2 remotes (1 point) 
 
 **Push sur deux remotes différent :**
