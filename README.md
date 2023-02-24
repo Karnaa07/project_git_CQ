@@ -18,7 +18,7 @@ Ce dépôt contiendra l'intégralité de notre projet pour notre partiel de vers
 - [X] Un readme, contributing, code of conduct correctement rédigés (1 point)
 - [X] Un .gitignore cohérent (1 point)
 - [X] Respect du git flow (les bonnes branches et les bonnes protection de branche) (2 points)
-- [ ] Un hooks qui vérifie un code js (linter) (2 points)
+- [X] Un hooks qui vérifie un code js (linter) (2 points)
 - [ ] Question de cours individuel (3 points)
 
 **Point Bonus :**
@@ -27,9 +27,13 @@ Ce dépôt contiendra l'intégralité de notre projet pour notre partiel de vers
 
 **Push sur deux remotes différent :**
 - "git remote -v" => pour voir si notre remote est lié à un répo
-- "git remote add origin1 https://github.com/votre-nom-utilisateur/votre-projet.git"
-- "git remote add origin2 https://github.com/votre-nom-utilisateur/votre-projet-fork.git"
-- "git push origin1 main && git push origin2 main"
+- "git remote add origin git@github.com:Karnaa07/project_git_CQ.git"
+- "git remote add origin2 git@github.com:Karnaa07/project_git_CQ_fork.git"
+- "git push origin main && git push origin2 main"
+
+**Création du hooks :**
+- "cd .git -> cd hooks -> touch pre-commit" permet la création d'un fichier hooks de pre-commit.
+- "code nécessaire pour faire fonctionner le hook avec eslint" 
 
 ## Contribution
 - [github-project code-of-conduct](CODE_OF_CONDUCT.md)
@@ -39,5 +43,3 @@ Ce dépôt contiendra l'intégralité de notre projet pour notre partiel de vers
 - [My collaborater for this project @Clément-Yvars](https://github.com/clement-Yvars)
 
 - [My collaborater for this project @Quentin-Girard](https://github.com/Karnaa07)
-
- test
