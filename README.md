@@ -23,7 +23,7 @@ Ce dépôt contiendra l'intégralité de notre projet pour notre partiel de vers
 
 **Point Bonus :**
 - [X] Une CI/GithubAction qui lance votre linter (2 points) 
-- [ ] Avec la commande git push -> push sur les 2 remotes (1 point) 
+- [X] Avec la commande git push -> push sur les 2 remotes (1 point) 
 
 **Push sur deux remotes différent :**
 - "git remote -v" => pour voir si notre remote est lié à un répo
