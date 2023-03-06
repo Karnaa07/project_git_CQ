@@ -1,6 +1,6 @@
 # README github_project
 
-Ce dépôt contiendra l'intégralité de notre projet pour notre partiel de versionning. il a été créé par nous-mêmes : Mr Yvars et Mr Girard.
+Ce dépôt contiendra l'intégralité de notre projet pour notre partiel de versionning. il a été créé par nous-mêmes : Mr Yvars et Mr Girard il nous a permit de renforcer nos competence.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -44,4 +44,8 @@ Ce dépôt contiendra l'intégralité de notre projet pour notre partiel de vers
 - [My collaborater for this project @Clément-Yvars](https://github.com/clement-Yvars)
 
 - [My collaborater for this project @Quentin-Girard](https://github.com/Karnaa07)
+
+
+
+
 
