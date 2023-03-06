@@ -12,7 +12,7 @@ Ce dépôt contiendra l'intégralité de notre projet pour notre partiel de vers
 
 **Pour le bon déroulement du partiel**. Voici les objectifs à accomplir :
 - [X] Qualité de la soutenance (3 points) 
-- [ ] Commits signés de tous les membres et sur tous les commits (1 point) 
+- [X] Commits signés de tous les membres et sur tous les commits (1 point) 
 - [X] Issue + Issue templates (1 point) [ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE)
 - [X] Merge request + merge request template (1 point) [MERGE_REQUEST_TEMPLATE](.github/pull_request_template.md)
 - [X] GitHub project (1 point) [PROJECT_GITHUB](https://github.com/users/Karnaa07/projects/1)
@@ -44,8 +44,6 @@ Ce dépôt contiendra l'intégralité de notre projet pour notre partiel de vers
 - [My collaborater for this project @Clément-Yvars](https://github.com/clement-Yvars)
 
 - [My collaborater for this project @Quentin-Girard](https://github.com/Karnaa07)
-
-
 
 
 
